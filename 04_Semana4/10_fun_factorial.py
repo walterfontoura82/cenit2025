@@ -16,6 +16,6 @@ def calcularFactorial(num):
         return factorial
 
 # Main
-num = int(input("Ingrese el num a calcular el factorial: "))
+num = input(int("Ingrese el num a calcular el factorial: "))
 res = calcularFactorial(num)
 print(f'El factorial de {num} es: {calcularFactorial(res)}')
