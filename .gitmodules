@@ -1,0 +1,3 @@
+[submodule "cenit2025"]
+	path = cenit2025
+	url = https://github.com/walterfontoura82/cenit2025.git
